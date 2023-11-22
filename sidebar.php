@@ -54,7 +54,7 @@
           </li>
 
           <li class="nav-item">
-                <a href="./index.php?page=task_create" class="nav-link nav-task_list">
+                <a href="./index.php?page=task_create" class="nav-link nav-task_create">
                   <i class="fas fa-tasks nav-icon"></i>
                   <p> Create Task</p>
                 </a>
